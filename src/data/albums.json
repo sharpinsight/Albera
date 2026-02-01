@@ -1,0 +1,10 @@
+[
+  {
+    "albumId": "example-album",
+    "title": "Example Collection",
+    "publisher": "Brand Name",
+    "year": 2026,
+    "totalStickers": 100,
+    "description": "Initial data structure for collaborators."
+  }
+]
