@@ -1,10 +1,29 @@
 [
   {
-    "albumId": "example-album",
-    "title": "Example Collection",
-    "publisher": "Brand Name",
-    "year": 2026,
-    "totalStickers": 100,
-    "description": "Initial data structure for collaborators."
+    "id": "qatar-2022-panini",
+    "title": "FIFA World Cup Qatar 2022",
+    "publisher": "Panini",
+    "year": 2022,
+    "totalStickers": 638,
+    "image": "https://via.placeholder.com/300x400?text=Qatar+2022",
+    "category": "Sports"
+  },
+  {
+    "id": "pokemon-merlin-1999",
+    "title": "Pokémon First Edition",
+    "publisher": "Merlin",
+    "year": 1999,
+    "totalStickers": 150,
+    "image": "https://via.placeholder.com/300x400?text=Pokemon+1999",
+    "category": "Anime"
+  },
+  {
+    "id": "dragon-ball-z-2",
+    "title": "Dragon Ball Z - Series 2",
+    "publisher": "Navarrete",
+    "year": 1997,
+    "totalStickers": 212,
+    "image": "https://via.placeholder.com/300x400?text=DBZ+Series+2",
+    "category": "Anime"
   }
 ]
