@@ -1,0 +1,46 @@
+{
+  "id": "naruto-shippuden-2009-navarrete",
+  "metadata": {
+    "title": "Naruto Shippuden: La Leyenda Ninja",
+    "publisher": "Navarrete",
+    "year": 2009,
+    "country": "PE",
+    "category": "Anime",
+    "totalStickers": 240,
+    "totalCards": 0,
+    "description": "Álbum oficial que cubre el arco del rescate de Gaara y el reencuentro con Sasuke."
+  },
+  "assets": {
+    "cover": "/assets/albums/naruto-shippuden-2009-navarrete/cover.webp",
+    "backCover": "/assets/albums/naruto-shippuden-2009-navarrete/back.webp",
+    "insideCover": "/assets/albums/naruto-shippuden-2009-navarrete/inside-cover.webp",
+    "insideBackCover": "/assets/albums/naruto-shippuden-2009-navarrete/inside-back.webp"
+  },
+  "pages": [
+    {
+      "pageId": "p01",
+      "number": 1,
+      "image": "/assets/albums/naruto-shippuden-2009-navarrete/pages/01.webp",
+      "stickers": [
+        { "number": 1, "type": "special", "name": "Naruto Uzumaki" },
+        { "number": 2, "type": "regular", "name": "Sakura Haruno" }
+      ]
+    },
+    {
+      "pageId": "p02",
+      "number": 2,
+      "image": "/assets/albums/naruto-shippuden-2009-navarrete/pages/02.webp",
+      "stickers": [
+        { "number": 3, "type": "regular", "name": "Kakashi Hatake" },
+        { "number": 4, "type": "regular", "name": "Sai" },
+        { "number": 5, "type": "regular", "name": "Yamato" }
+      ]
+    },
+    {
+      "pageId": "p03",
+      "number": 3,
+      "image": "/assets/albums/naruto-shippuden-2009-navarrete/pages/03.webp",
+      "stickers": []
+    }
+  ]
+}
