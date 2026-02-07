@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import albumsData from '../data/albums.json';
+import { Link } from 'react-router-dom';
+import albumsData from '../data/index.js';
 
 const Archive = () => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -31,12 +32,31 @@ const Archive = () => {
       </header>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-        {results.map(album => (
-          <div key={album.id} className="bg-white border rounded-lg p-4 hover:shadow-md transition-shadow">
-            <img src={album.image} alt={album.title} className="w-full h-48 object-cover rounded-md mb-4 bg-slate-200" />
-            <h3 className="font-bold text-slate-900">{album.title}</h3>
-            <p className="text-sm text-slate-500">{album.publisher} • {album.year}</p>
-          </div>
+        {results.map((album) => (
+          <Link 
+            to={`/album/${album.id}`} 
+            key={album.id} 
+            className="bg-white border rounded-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 flex flex-col"
+          >
+            <div className="w-full aspect-[3/4] bg-slate-100 relative">
+              <img 
+                src={album.image} 
+                alt={album.title} 
+                className="w-full h-full object-cover" 
+              />
+            </div>
+
+            <div className="p-4 flex flex-col flex-grow justify-between">
+              <div>
+                <h3 className="font-bold text-slate-900 text-lg leading-tight mb-1 group-hover:text-blue-600 transition-colors">
+                  {album.title}
+                </h3>
+                <p className="text-sm text-slate-500 font-medium">
+                  {album.publisher} {(album.country) ? `(${album.country})` : ""} - {album.year}
+                </p>
+              </div>
+            </div>
+          </Link>
         ))}
       </div>
     </div>
