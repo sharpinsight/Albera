@@ -10,7 +10,7 @@ const Archive = () => {
   const handleSearch = (e) => {
     if (e.key === 'Enter') {
       const filtered = albumsData.filter(album => 
-        album.title.toLowerCase().includes(searchTerm.toLowerCase())
+        album.metadata.title.toLowerCase().includes(searchTerm.toLowerCase())
       );
       setResults(filtered);
     }
@@ -40,8 +40,8 @@ const Archive = () => {
           >
             <div className="w-full aspect-[3/4] bg-slate-100 relative">
               <img 
-                src={album.image} 
-                alt={album.title} 
+                src={album.assets.cover} 
+                alt={album.metadata.title} 
                 className="w-full h-full object-cover" 
               />
             </div>
@@ -49,10 +49,10 @@ const Archive = () => {
             <div className="p-4 flex flex-col flex-grow justify-between">
               <div>
                 <h3 className="font-bold text-slate-900 text-lg leading-tight mb-1 group-hover:text-blue-600 transition-colors">
-                  {album.title}
+                  {album.metadata.title}
                 </h3>
                 <p className="text-sm text-slate-500 font-medium">
-                  {album.publisher} {(album.country) ? `(${album.country})` : ""} - {album.year}
+                  {album.metadata.publisher} {(album.metadata.country) ? `(${album.metadata.country})` : ""} - {album.metadata.year}
                 </p>
               </div>
             </div>

@@ -1,0 +1,201 @@
+{
+  "id": "digimon-2000-navarrete-mx",
+  "metadata": {
+    "title": "DIGIMON Digital Monsters",
+    "publisher": "Navarrete",
+    "year": 2000,
+    "country": "MX",
+    "category": "Anime",
+    "totalStickers": 232,
+    "totalCards": 0
+  },
+  "assets": {
+    "cover": "/assets/albums/digimon-2000-navarrete-mx/digimon-2000-navarrete-mx-cover.webp",
+    "backCover": "/assets/albums/digimon-2000-navarrete-mx/digimon-2000-navarrete-mx-back.webp",
+    "insideCover": "/assets/albums/digimon-2000-navarrete-mx/digimon-2000-navarrete-mx-insideCover.webp",
+    "insideBackCover": "/assets/albums/digimon-2000-navarrete-mx/digimon-2000-navarrete-mx-insidebackCover.webp"
+  },
+  "pages": [
+    {
+      "number": 1,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page01.webp",
+      "stickers": [
+        {
+          "number": "1",
+          "name": "",
+          "type": "holographic",
+          "image": "/assets/albums/digimon-2000/stickers/001.webp",
+          "description": ""
+        },
+        {
+          "number": "2",
+          "name": "",
+          "type": "regular",
+          "image": "/assets/albums/digimon-2000/stickers/002.webp",
+          "description": ""
+        },
+        {
+          "number": "3",
+          "name": "",
+          "type": "special",
+          "image": "/assets/albums/digimon-2000/stickers/A.webp"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page02.webp",
+      "stickers": []
+    },
+    {
+      "number": 3,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page03.webp",
+      "stickers": []
+    },
+    {
+      "number": 4,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page04.webp",
+      "stickers": []
+    },
+    {
+      "number": 5,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page05.webp",
+      "stickers": []
+    },
+    {
+      "number": 6,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page06.webp",
+      "stickers": []
+    },
+    {
+      "number": 7,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page07.webp",
+      "stickers": []
+    },
+    {
+      "number": 8,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page08.webp",
+      "stickers": []
+    },
+    {
+      "number": 9,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page09.webp",
+      "stickers": []
+    },
+    {
+      "number": 10,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page10.webp",
+      "stickers": []
+    },
+    {
+      "number": 11,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page11.webp",
+      "stickers": []
+    },
+    {
+      "number": 12,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page12.webp",
+      "stickers": []
+    },
+    {
+      "number": 13,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page13.webp",
+      "stickers": []
+    },
+    {
+      "number": 14,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page14.webp",
+      "stickers": []
+    },
+    {
+      "number": 15,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page15.webp",
+      "stickers": []
+    },
+    {
+      "number": 16,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page16.webp",
+      "stickers": []
+    },
+    {
+      "number": 17,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page17.webp",
+      "stickers": []
+    },
+    {
+      "number": 18,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page18.webp",
+      "stickers": []
+    },
+    {
+      "number": 19,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page19.webp",
+      "stickers": []
+    },
+    {
+      "number": 20,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page20.webp",
+      "stickers": []
+    },
+    {
+      "number": 21,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page21.webp",
+      "stickers": []
+    },
+    {
+      "number": 22,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page22.webp",
+      "stickers": []
+    },
+    {
+      "number": 23,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page23.webp",
+      "stickers": []
+    },
+    {
+      "number": 24,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page24.webp",
+      "stickers": []
+    },
+    {
+      "number": 25,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page25.webp",
+      "stickers": []
+    },
+    {
+      "number": 26,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page26.webp",
+      "stickers": []
+    },
+    {
+      "number": 27,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page27.webp",
+      "stickers": []
+    },
+    {
+      "number": 28,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page28.webp",
+      "stickers": []
+    },
+    {
+      "number": 29,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page29.webp",
+      "stickers": []
+    },
+    {
+      "number": 30,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page30.webp",
+      "stickers": []
+    },
+    {
+      "number": 31,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page31.webp",
+      "stickers": []
+    },
+    {
+      "number": 32,
+      "image": "/assets/albums/digimon-2000-navarrete-mx/pages/digimon-2000-navarrete-mx-page32.webp",
+      "stickers": []
+    }
+  ]
+}
